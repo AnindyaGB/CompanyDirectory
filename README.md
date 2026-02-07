@@ -20,17 +20,40 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Company Directory
+Company Directory a full-stack company management system supporting CRUD operations for personnel, departments, and locations.
 
-To learn more about Next.js, take a look at the following resources:
+✨ Live Demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://companydirectory.anindyab.dev/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+(Note you can also access this through https://anindyab.dev/companydirectory however that method will be depreciated soon when all companydirectory code is removed from https://github.com/AnindyaGB/Portfolio)
 
-## Deploy on Vercel
+🛠 Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Framework: React, Next.js
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Languages: JavaScript, Node.js
+
+Database: PostgreSQL
+
+Styling: Bootstrap, css-modules
+
+Deployment: Vercel
+
+🚀 Features
+
+● Designed RESTful APIs in Node.js and implemented PostgreSQL database schema and 
+queries.
+
+● Built a responsive Next.js front-end with server-side rendering and client-side interactivity.
+
+● Implemented advanced search, filtering, sorting, and pagination to efficiently manage large datasets.
+
+● Added form validation, error handling, and user feedback to improve usability and data integrity.
+
+● Connected front-end and back-end layers through clean API contracts, demonstrating 
+end-to-end application design.
+
+● Deployed and hosted the application on Vercel, configuring environment variables and 
+production builds.
